@@ -3,7 +3,7 @@
 
 # Hi there, I'm Yvonne! 👋🏽
 
-![@itsthatladydev](https://github.com/user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5)
+![Yvonnek254](https://github.com/user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5)
 
 
 ## About Me 🚀
@@ -11,8 +11,8 @@
 I'm a Junior Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy. 
 
 - 🌱 Currently learning: Backend Programming(Python and Django) 
-- 🔭 Working on: CopyPasta Chrome Extension to make it work across browsers 
-- ⚡ Fun fact: I'm Jamaican and I love food 💃🏽 
+- 🔭 Working on:a ticketing system!(Lets see how that goes)! 
+- ⚡ Fun fact: I'm Kenyan and I love fish 💃🏽 
 
 ## My Skills 🧠
 
