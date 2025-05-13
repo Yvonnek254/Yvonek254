@@ -3,7 +3,7 @@
 
 # Hi there, I'm Yvonne! 👋🏽
 
-![Yvonnek254](](https://github.com/Yvonnek254))
+![Yvonnek254](](https://github.com/Yvonnek254user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5))
 
 
 ## About Me 🚀
